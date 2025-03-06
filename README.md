@@ -2,7 +2,7 @@
 
 # Installation Instructions for Blend(AI)r
 
-## Method 1: Install from Blender Preferences
+## Install to Blender 
 
 1. Open Blender
 2. Go to `Edit` > `Preferences`
